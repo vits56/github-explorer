@@ -1,3 +1,3 @@
 export function App() {
-    return <h1>Helo world</h1>
+    return <h1>Hello React</h1>
 }
